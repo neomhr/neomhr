@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+My name is Neo. I currently spend my days building founder brands on LinkedIn for product-led SaaS founders.
+
+I've spent a lot of time coding back when I was 14-16, some of that is still somewhere on this profile.
+
+My most recent project on here is **Growth Stack** - The open-source knowledge directory for all things LinkedIn! Feel free to check it out. Hope it helps.
+
+And PS: If you're a SaaS founder that's looking to turn LinkedIn into a major acquisition engine for your PLG motion, shoot me a DM on LinkedIn! I might be able to assist.
+
+Cheers!
+
 <!--
 **neomhr/neomhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
